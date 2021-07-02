@@ -1,5 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
 '''
     This file reads in package/location/address information and sets up
     data structures necessary for the program's algorithm to function.
