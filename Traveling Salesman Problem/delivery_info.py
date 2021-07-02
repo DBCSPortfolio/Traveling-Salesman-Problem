@@ -1,6 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
-
 '''
     This file includes a definition and functions for DeliveryInfo objects.
     A DeliveryInfo object holds a package number as well as a specific time
