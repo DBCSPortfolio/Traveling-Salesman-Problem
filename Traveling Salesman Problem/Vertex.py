@@ -1,6 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
-
 '''
     This file defines a vertex object, which is used to designate locations and
     store address information. Vertex objects are linked in this project with
