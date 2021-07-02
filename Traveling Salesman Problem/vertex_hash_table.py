@@ -1,5 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
 '''
     This file creates a hash table to contain vertices, so as to easily access their
     address information for comparisons with package addresses.
