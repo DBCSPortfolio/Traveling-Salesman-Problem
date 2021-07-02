@@ -1,5 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
 '''
     This file defines a Package object, which is used to hold information about
     a particular package. Attributes include ID, address, deadline, city, zip code,
