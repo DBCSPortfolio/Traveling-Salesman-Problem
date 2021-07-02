@@ -1,6 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
-
 '''
     This file sets up a hash table into which information regarding package delivery times
     can be inserted and from which this information can be returned.
