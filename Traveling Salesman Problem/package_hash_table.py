@@ -1,6 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
-
 '''
     This file sets up a hash table to contain packages for efficient querying.
 '''
