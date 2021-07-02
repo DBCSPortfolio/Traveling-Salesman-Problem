@@ -1,5 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
 '''
     This file defines the graph data structure that is used to store location
     vertices and define edge lengths (distances) amongst these vertices.
