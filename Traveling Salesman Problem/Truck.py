@@ -1,6 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
-
 '''
     This file creates Truck objects, which contain packages and can load and deliver them
     based on the program's main algorithm. Truck objects also store current distance
