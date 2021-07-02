@@ -1,5 +1,3 @@
-''' Eamonn Black - #000825575 '''
-
 '''
     This file contains the main algorithm for generating possible trucks,
     finding routes for these trucks, and officially delivering all packages.
